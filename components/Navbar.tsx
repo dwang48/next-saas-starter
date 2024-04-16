@@ -80,9 +80,9 @@ export default function Navbar({ items }: NavbarProps) {
         {/* <ColorSwitcherContainer>
           <ColorSwitcher />
         </ColorSwitcherContainer> */}
-        {/* <HamburgerMenuWrapper>
+        <HamburgerMenuWrapper>
           <HamburgerIcon aria-label="Toggle menu" onClick={toggle} />
-        </HamburgerMenuWrapper> */}
+        </HamburgerMenuWrapper>
       </Content>
     </NavbarContainer>
   );
